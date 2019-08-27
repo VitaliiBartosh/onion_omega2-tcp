@@ -17,7 +17,6 @@ int main() {
 	// LED blynk
 	//=========================================================================
 	/*Gpio::initialize();
-	//zero.initialize();
 	// set the pin mode to output, so that we can digitalWrite() it
 
 	Gpio::pinMode(LED_PIN, 1);
